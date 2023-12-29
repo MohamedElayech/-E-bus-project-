@@ -31,4 +31,3 @@ E-Bus offre les fonctionnalités suivantes :
 Pour assurer une gestion efficace des données, E-Bus utilise des structures de données avancées pour le stockage. Aussi elle utulise les fichier comme base de données
 
 
-"# -E-bus-project-" 
